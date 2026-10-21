@@ -77,6 +77,9 @@ export default function EventBrowser({ events }: { events: Event[] }) {
           <a className="nav-link" href="#for-clubs">
             For clubs
           </a>
+          <a className="nav-link" href="/check-in">
+            Door check-in (demo)
+          </a>
         </nav>
 
         <button
